@@ -1,0 +1,18 @@
+.menu-link {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-container .menu-list {
+    text-align: left;
+}
+
+.menu-list .menu-item {
+    margin: 0 auto;
+    padding: 10px 10px;
+    font-size: 1.5rem;
+}
+
+.menu-item:hover {
+    background-color: #bbb;
+}
